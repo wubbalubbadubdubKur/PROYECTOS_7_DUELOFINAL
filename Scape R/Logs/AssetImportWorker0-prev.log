@@ -1,0 +1,299 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1348; Version 2009; 64bit' Language: 'es' Physical Memory: 16215 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Mistrabajos/Proyectos7/VIDEOJUEGOPARTEFINAL/codigo_repositorio/PROYECTOS_7_DUELOFINAL/Scape R
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61679
+Successfully changed project path to: D:/Mistrabajos/Proyectos7/VIDEOJUEGOPARTEFINAL/codigo_repositorio/PROYECTOS_7_DUELOFINAL/Scape R
+D:/Mistrabajos/Proyectos7/VIDEOJUEGOPARTEFINAL/codigo_repositorio/PROYECTOS_7_DUELOFINAL/Scape R
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 53.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Mistrabajos/Proyectos7/VIDEOJUEGOPARTEFINAL/codigo_repositorio/PROYECTOS_7_DUELOFINAL/Scape R/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6140
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003087 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 62.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.454 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1454ms)
+		BeginReloadAssembly (74ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (555ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (188ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (215ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (63ms)
+				BeforeProcessingInitializeOnLoad (19ms)
+				ProcessInitializeOnLoadAttributes (91ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003242 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.972 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1974ms)
+		BeginReloadAssembly (271ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (24ms)
+		EndReloadAssembly (1534ms)
+			LoadAssemblies (155ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (375ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (116ms)
+			SetupLoadedEditorAssemblies (659ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (114ms)
+				ProcessInitializeOnLoadAttributes (521ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2056 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.4 MB.
+System memory in use after: 91.5 MB.
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 2481.
+Total: 4.530400 ms (FindLiveObjects: 0.224200 ms CreateObjectMapping: 0.092600 ms MarkObjects: 4.011300 ms  DeleteObjects: 0.201300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.010106 seconds 
+  Import took 0.160783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.377091 seconds.
+  path: Assets/Modelos3D
+  artifactKey: Guid(0efed5de8af53a241a318580b7e917be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D using Guid(0efed5de8af53a241a318580b7e917be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0cc1510ed92059729913b97b7a0bfdf') in 0.001937 seconds 
+  Import took 0.058261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.898441 seconds.
+  path: Assets/Modelos3D/lowpolytree.fbx
+  artifactKey: Guid(81a9be5c97b6fbf43a94503b42a275a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/lowpolytree.fbx using Guid(81a9be5c97b6fbf43a94503b42a275a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5a4bee68655d906892f426e82b3a27') in 0.240720 seconds 
+  Import took 0.280940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.579496 seconds.
+  path: Assets/Modelos3D/1.fbx
+  artifactKey: Guid(d04e6725441290b4b95961c4d065616d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/1.fbx using Guid(d04e6725441290b4b95961c4d065616d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5298bff538ea8a8a0c1bf74c0d78714e') in 0.355046 seconds 
+  Import took 0.359736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.930577 seconds.
+  path: Assets/Modelos3D/among us.FBX
+  artifactKey: Guid(951c72dfd0b33d440ad961090e1b2919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/among us.FBX using Guid(951c72dfd0b33d440ad961090e1b2919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '714212264163abb43244551567626add') in 0.038480 seconds 
+  Import took 0.042565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130122 seconds.
+  path: Assets/Modelos3D/among us.FBX
+  artifactKey: Guid(951c72dfd0b33d440ad961090e1b2919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/among us.FBX using Guid(951c72dfd0b33d440ad961090e1b2919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '714212264163abb43244551567626add') in 0.025071 seconds 
+  Import took 0.032716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.166413 seconds.
+  path: Assets/Modelos3D/Michigan_Building.obj
+  artifactKey: Guid(f5d6390c2adc02648876d6e8587e4663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Michigan_Building.obj using Guid(f5d6390c2adc02648876d6e8587e4663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '104bc1afced35a22624f45eea93ec22e') in 0.232361 seconds 
+  Import took 0.237892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1234.041129 seconds.
+  path: Assets/Modelos3D/free_car_001.fbx
+  artifactKey: Guid(633e103e6ecd574479d330573448bcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/free_car_001.fbx using Guid(633e103e6ecd574479d330573448bcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a3f52a896546a476dc328ccd08e86f') in 0.158724 seconds 
+  Import took 0.164697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033934 seconds.
+  path: Assets/Modelos3D/free_car_001.fbx
+  artifactKey: Guid(633e103e6ecd574479d330573448bcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/free_car_001.fbx using Guid(633e103e6ecd574479d330573448bcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87a3f52a896546a476dc328ccd08e86f') in 0.150068 seconds 
+  Import took 0.154391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 271.228043 seconds.
+  path: Assets/Modelos3D/personajecuerpocompleo.fbx
+  artifactKey: Guid(766a60872eab45145a05bda73cca3593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/personajecuerpocompleo.fbx using Guid(766a60872eab45145a05bda73cca3593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1c0f3b15c581a2df9020df94022051') in 0.044705 seconds 
+  Import took 0.072376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102153 seconds.
+  path: Assets/Modelos3D/personajecuerpocompleo.fbx
+  artifactKey: Guid(766a60872eab45145a05bda73cca3593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/personajecuerpocompleo.fbx using Guid(766a60872eab45145a05bda73cca3593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1c0f3b15c581a2df9020df94022051') in 0.021791 seconds 
+  Import took 0.029107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.110103 seconds.
+  path: Assets/Modelos3D/MANOS_PERSONAJEPRINCIPAL.fbx
+  artifactKey: Guid(a6259a9604c50e040affa957b7a761cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/MANOS_PERSONAJEPRINCIPAL.fbx using Guid(a6259a9604c50e040affa957b7a761cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca8a7a9c349b8fc8aed2e09e7c6a0ddb') in 0.057937 seconds 
+  Import took 0.078437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090338 seconds.
+  path: Assets/Modelos3D/MANOS_PERSONAJEPRINCIPAL.fbx
+  artifactKey: Guid(a6259a9604c50e040affa957b7a761cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/MANOS_PERSONAJEPRINCIPAL.fbx using Guid(a6259a9604c50e040affa957b7a761cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca8a7a9c349b8fc8aed2e09e7c6a0ddb') in 0.046996 seconds 
+  Import took 0.054667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3512.028447 seconds.
+  path: Assets/devotid/Folding Table and Chair/Materials/Table and Chair.mat
+  artifactKey: Guid(f2f144f57ed25154e99f26d1c8087c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Materials/Table and Chair.mat using Guid(f2f144f57ed25154e99f26d1c8087c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4879b247d7bc896411e5ebce245b3db6') in 0.298755 seconds 
+  Import took 0.329152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.900830 seconds.
+  path: Assets/devotid/Folding Table and Chair/Model/Folding Table and Chair FBX.FBX
+  artifactKey: Guid(e005deb92065cd74aad34a488d504a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Model/Folding Table and Chair FBX.FBX using Guid(e005deb92065cd74aad34a488d504a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef529e654fbf5da84b63963f5ab95a6f') in 0.055712 seconds 
+  Import took 0.061192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.424240 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/CHAIR_Folding.prefab
+  artifactKey: Guid(ebb2c3175a4c6d44b893dfc76330ddb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/CHAIR_Folding.prefab using Guid(ebb2c3175a4c6d44b893dfc76330ddb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e3cf61bddbf489c50971accf016b7f') in 0.031540 seconds 
+  Import took 0.036381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/TABLE_Folding.prefab
+  artifactKey: Guid(da536aa57b3c6824093ab141245a54ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/TABLE_Folding.prefab using Guid(da536aa57b3c6824093ab141245a54ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b04e93c6d86d53e26b341746b9b4b8') in 0.024690 seconds 
+  Import took 0.028921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.849208 seconds.
+  path: Assets/devotid/Folding Table and Chair/Textures/Folding Table and Chair FBX_Table and Chair_AlbedoTransparency.bmp
+  artifactKey: Guid(739b50fe98129844aa53574f4d78b0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Textures/Folding Table and Chair FBX_Table and Chair_AlbedoTransparency.bmp using Guid(739b50fe98129844aa53574f4d78b0f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72de9d99a694956a9bbcfd2b00f85187') in 0.051395 seconds 
+  Import took 0.055758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/devotid/Folding Table and Chair/Textures/Folding Table and Chair FBX_Table and Chair_AO.bmp
+  artifactKey: Guid(4b765fb68ec60b745ab4501749e37db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Textures/Folding Table and Chair FBX_Table and Chair_AO.bmp using Guid(4b765fb68ec60b745ab4501749e37db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e76768503725ad1055953356f3015c03') in 0.012339 seconds 
+  Import took 0.016224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/devotid/Folding Table and Chair/Textures/Folding Table and Chair FBX_Table and Chair_Normal.bmp
+  artifactKey: Guid(f360da42c0fb2744e8a5cfca909b3039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Textures/Folding Table and Chair FBX_Table and Chair_Normal.bmp using Guid(f360da42c0fb2744e8a5cfca909b3039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e005ab465e50d1ba74a4689100058eff') in 0.016602 seconds 
+  Import took 0.020710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/devotid/Folding Table and Chair/Textures/Folding Table and Chair FBX_Table and Chair_MetallicSmoothness.bmp
+  artifactKey: Guid(2df9158e790379742a317cb6f6f9fe36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Textures/Folding Table and Chair FBX_Table and Chair_MetallicSmoothness.bmp using Guid(2df9158e790379742a317cb6f6f9fe36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5d6d4c348fcbab6141ebe26de1187e') in 0.011286 seconds 
+  Import took 0.015472 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
