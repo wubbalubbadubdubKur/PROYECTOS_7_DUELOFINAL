@@ -1881,3 +1881,696 @@ Received Import Request.
 Start importing Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_5_Down-Y.png using Guid(6458ffa0dcd6b4ea5b30ac5085d8c68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb387bcfb2ce9121da9d6a3636ee0ef') in 0.008787 seconds 
   Import took 0.011946 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 9294.378343 seconds.
+  path: Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSkyFreeDemoEnvironment.prefab
+  artifactKey: Guid(e2402d4ef4fe747ae9ad59bdccad4556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSkyFreeDemoEnvironment.prefab using Guid(e2402d4ef4fe747ae9ad59bdccad4556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8ce2f60403c26bb09e10273a1d5df11') in 1.050554 seconds 
+  Import took 1.110462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000772 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Floors_Ceilings/Classic_Floor_01_snaps001.prefab
+  artifactKey: Guid(d70a27546822c004b81f0b6ce1dda5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Floors_Ceilings/Classic_Floor_01_snaps001.prefab using Guid(d70a27546822c004b81f0b6ce1dda5aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e31fc7aa5905cd53d9405e305f0924') in 0.087969 seconds 
+  Import took 0.092523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Floors_Ceilings/Classic_Ceiling_01_snaps001.prefab
+  artifactKey: Guid(98ed76314c8d820429b556f5a446e393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/Prefabs/Structure/Floors_Ceilings/Classic_Ceiling_01_snaps001.prefab using Guid(98ed76314c8d820429b556f5a446e393) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5de9cdabe42e6ff215c33eada63f40d') in 0.029552 seconds 
+  Import took 0.034271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.150650 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Straße-Template.obj
+  artifactKey: Guid(de0c9e3179803334cba588d22ad057b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Straße-Template.obj using Guid(de0c9e3179803334cba588d22ad057b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eccd81dee3a64f88c5f4870970845ce') in 0.591703 seconds 
+  Import took 0.597913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.255064 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Calculator.fbx
+  artifactKey: Guid(84e1b3127ad7e447088a94c9996a9ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Calculator.fbx using Guid(84e1b3127ad7e447088a94c9996a9ce5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5309e07bda49b5fc96a9afcf8f1e0df2') in 0.185436 seconds 
+  Import took 0.191273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000567 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Pencil blue.fbx
+  artifactKey: Guid(7d805195793504284bb76dcfac433781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Pencil blue.fbx using Guid(7d805195793504284bb76dcfac433781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5d2393da7a0e763669faaf0ee658c6a') in 0.050016 seconds 
+  Import took 0.078434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000854 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Scissors red.fbx
+  artifactKey: Guid(5daee7d72736f4145840fe9131e50529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Scissors red.fbx using Guid(5daee7d72736f4145840fe9131e50529) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d94dc6c7ee0fae00d0533ef47d6bca') in 0.113576 seconds 
+  Import took 0.144748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000989 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Pen red.fbx
+  artifactKey: Guid(df0b0a058ea60429e89e34a1179f1a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Pen red.fbx using Guid(df0b0a058ea60429e89e34a1179f1a10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '818721f7402663ad88ee65ad845186b8') in 0.106440 seconds 
+  Import took 0.115093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Sticky notes red.fbx
+  artifactKey: Guid(25da534d6cf414527ab08bb7c090d56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Sticky notes red.fbx using Guid(25da534d6cf414527ab08bb7c090d56a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371079bb46910e1668a1aed4ce30650b') in 0.026400 seconds 
+  Import took 0.031922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Scissors yellow.fbx
+  artifactKey: Guid(c562592af2b0f46a9b70b72062643dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Scissors yellow.fbx using Guid(c562592af2b0f46a9b70b72062643dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d5ce6e3686ac8ee6682facd7851a30') in 0.051534 seconds 
+  Import took 0.055923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Hole punch.fbx
+  artifactKey: Guid(6f47f88f02593430fb76e5ac71e29eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Hole punch.fbx using Guid(6f47f88f02593430fb76e5ac71e29eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c81025ceb7ea40df67a8a60a20faf45a') in 0.030550 seconds 
+  Import took 0.035987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Stapler blue.fbx
+  artifactKey: Guid(77e0316427a8743d2bbad33aeac536ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Stapler blue.fbx using Guid(77e0316427a8743d2bbad33aeac536ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8f80f8e18412a413ff3cf391a92de5') in 0.024591 seconds 
+  Import took 0.029723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Pen blue.fbx
+  artifactKey: Guid(662d199f7e14c4337b2bec39f50c7143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Pen blue.fbx using Guid(662d199f7e14c4337b2bec39f50c7143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578e02ee12245cd261e1ccdb58dd3ff7') in 0.045407 seconds 
+  Import took 0.050243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Eraser.fbx
+  artifactKey: Guid(1c153fe863f3c4e618cc7810fd8fee58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Eraser.fbx using Guid(1c153fe863f3c4e618cc7810fd8fee58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7701f96755d56af1cc31776451e2ed4') in 0.017467 seconds 
+  Import took 0.022700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Stapler red.fbx
+  artifactKey: Guid(2c2a53f9e92bf4669b5594d6a962585f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Stapler red.fbx using Guid(2c2a53f9e92bf4669b5594d6a962585f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e257ee0a20d6f10a63da518fe7a83b') in 0.030923 seconds 
+  Import took 0.035159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000426 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Legal pad.fbx
+  artifactKey: Guid(a8fbe669bb32640fa9ae0bfb1086fecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Legal pad.fbx using Guid(a8fbe669bb32640fa9ae0bfb1086fecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c86e49a9ed98fe7b9223a28b0db93ac4') in 0.018723 seconds 
+  Import took 0.022807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Pencil yellow.fbx
+  artifactKey: Guid(bbfb4cae5000843e8ad8aef0b7d56733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Pencil yellow.fbx using Guid(bbfb4cae5000843e8ad8aef0b7d56733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee5c96646f569f3e66289a915a3ebd13') in 0.016918 seconds 
+  Import took 0.021331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Scissors black.fbx
+  artifactKey: Guid(104afd0ebfdc44108b1d4fb97aeaf769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Scissors black.fbx using Guid(104afd0ebfdc44108b1d4fb97aeaf769) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a3c7dc21905f1e7d39e26febfe4c2e5') in 0.058306 seconds 
+  Import took 0.072601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000361 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Highlighter pen blue.fbx
+  artifactKey: Guid(11aaf0f52900e4f70867a6243986ceee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Highlighter pen blue.fbx using Guid(11aaf0f52900e4f70867a6243986ceee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '930557599166d274744652d15466cbee') in 0.037565 seconds 
+  Import took 0.067344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Pencil red.fbx
+  artifactKey: Guid(55671bcf5267244a1a590ffb6bc77964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Pencil red.fbx using Guid(55671bcf5267244a1a590ffb6bc77964) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d6dbce741469591ce9fe4d7124a78d') in 0.017698 seconds 
+  Import took 0.021688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Tape dispenser.fbx
+  artifactKey: Guid(71ae13275787a4334852437bf1b8ea4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Tape dispenser.fbx using Guid(71ae13275787a4334852437bf1b8ea4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0350efdb6d2723c9fcb0fd8bc7ada0e6') in 0.037598 seconds 
+  Import took 0.094450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Sticky notes blue.fbx
+  artifactKey: Guid(5a3764128a5414cad9e3f0d3d3c5014e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Sticky notes blue.fbx using Guid(5a3764128a5414cad9e3f0d3d3c5014e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '097e43fd14f32c6ecdb4ae5faa1751b9') in 0.043908 seconds 
+  Import took 0.047950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Sticky notes green.fbx
+  artifactKey: Guid(ce36f85459251406b8ca1ea00072e807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Sticky notes green.fbx using Guid(ce36f85459251406b8ca1ea00072e807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd344f01564aa67e7a2b231b951e8bbd1') in 0.030332 seconds 
+  Import took 0.035736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Highlighter pen green.fbx
+  artifactKey: Guid(f72af9046e91c478da8cfab52027ff57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Highlighter pen green.fbx using Guid(f72af9046e91c478da8cfab52027ff57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e8cd8dec3a666e4b09c9761a14669fb') in 0.041892 seconds 
+  Import took 0.047692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Sticky notes yellow.fbx
+  artifactKey: Guid(86dfb93f3730448fd8ccd5078d44fb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Sticky notes yellow.fbx using Guid(86dfb93f3730448fd8ccd5078d44fb7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bb4cdfc80a3c2b51d89ecd728660a8f') in 0.016852 seconds 
+  Import took 0.020919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Highlighter pen pink.fbx
+  artifactKey: Guid(db4969af4a0f74eb88e7d5a78931f5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Highlighter pen pink.fbx using Guid(db4969af4a0f74eb88e7d5a78931f5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c758f46456e7831da72b0e1467ee70cb') in 0.046885 seconds 
+  Import took 0.051389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Pencil black.fbx
+  artifactKey: Guid(2ce3f87ced8e34faa8f4e7b415bd3380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Pencil black.fbx using Guid(2ce3f87ced8e34faa8f4e7b415bd3380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '324827f84881b374273b51cbd7f5026d') in 0.034217 seconds 
+  Import took 0.038568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Highlighter pen yellow.fbx
+  artifactKey: Guid(df89f2300832849029a10573447b30f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Highlighter pen yellow.fbx using Guid(df89f2300832849029a10573447b30f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb34d8e768fa665126b28b5aa4c8f45d') in 0.052224 seconds 
+  Import took 0.056390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Pen black.fbx
+  artifactKey: Guid(96c2da0d922d84461abee65d60dfdd46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Pen black.fbx using Guid(96c2da0d922d84461abee65d60dfdd46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '363d008d74567beb2924e65b8a47f76e') in 0.038203 seconds 
+  Import took 0.042448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Pencil sharpener large.fbx
+  artifactKey: Guid(64f339989f1724c42bf7625edf00f0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Pencil sharpener large.fbx using Guid(64f339989f1724c42bf7625edf00f0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dedf453b0c3fcbd9da9e3f1ee03ae3ac') in 0.076110 seconds 
+  Import took 0.094059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Stapler black.fbx
+  artifactKey: Guid(381f9e7e11c4f47a397786a4397d6b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Stapler black.fbx using Guid(381f9e7e11c4f47a397786a4397d6b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46859cc15985ca892a9f290df1c86b04') in 0.037004 seconds 
+  Import took 0.041444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Scissors blue.fbx
+  artifactKey: Guid(c20e74ebfc5bf4fe585c8321d66a92bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Scissors blue.fbx using Guid(c20e74ebfc5bf4fe585c8321d66a92bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca519b50eb7a4ce80bd6e319e44b2e9d') in 0.033449 seconds 
+  Import took 0.037388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Office Supplies Low Poly/Assets/FBX/Pen green.fbx
+  artifactKey: Guid(ef17dc6d5875548089b2f06a00206c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Office Supplies Low Poly/Assets/FBX/Pen green.fbx using Guid(ef17dc6d5875548089b2f06a00206c18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6b7076bde3ec75ac3d0abf41382088') in 0.034100 seconds 
+  Import took 0.038834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 501.178140 seconds.
+  path: Assets/Modelos3D/Straße-Template.obj
+  artifactKey: Guid(a20352f8f0385eb48bf2769f14ad2aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Straße-Template.obj using Guid(a20352f8f0385eb48bf2769f14ad2aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4fd3b1f4224417e38b0eebe9cf829e4') in 0.473069 seconds 
+  Import took 0.479404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.166838 seconds.
+  path: Assets/Modelos3D/Straße-Template 1.obj
+  artifactKey: Guid(ebf7cd4c2fc9c4c4da5633e9532515fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Straße-Template 1.obj using Guid(ebf7cd4c2fc9c4c4da5633e9532515fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281ffaafc9c4b636714d966e5043adc4') in 0.459772 seconds 
+  Import took 0.467985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.980550 seconds.
+  path: Assets/Modelos3D/BlackBoard.fbx
+  artifactKey: Guid(894bd81e85f20494990cc40a7170d024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/BlackBoard.fbx using Guid(894bd81e85f20494990cc40a7170d024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8bfcddbf554721812a580eab27e91c') in 0.266318 seconds 
+  Import took 0.271331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.791625 seconds.
+  path: Assets/Modelos3D/Proektor_(0).fbx
+  artifactKey: Guid(93868758142ef6845ad68456289aafc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Proektor_(0).fbx using Guid(93868758142ef6845ad68456289aafc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b8619b9f3e0cf87d5a756373696adb') in 0.187597 seconds 
+  Import took 0.192045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1086.110284 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/building.fbx
+  artifactKey: Guid(b009430c9d74734499a7352b2d376250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/building.fbx using Guid(b009430c9d74734499a7352b2d376250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58884aab359c06aeb42b0d7d1fd0c2ee') in 0.412584 seconds 
+  Import took 0.426604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.402781 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/building 1.fbx
+  artifactKey: Guid(525c7fdb9dbbdc34a9e7340e4c626159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/building 1.fbx using Guid(525c7fdb9dbbdc34a9e7340e4c626159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e80b9dbd076c01a61240aae79bac522') in 0.267904 seconds 
+  Import took 0.278184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.527719 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/building.obj
+  artifactKey: Guid(a633c5f9e6087b84494128fa049cc566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/building.obj using Guid(a633c5f9e6087b84494128fa049cc566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b1d91756a683cce214cb958c857b27') in 0.055522 seconds 
+  Import took 0.059787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 335.608296 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Calisma2.fbx
+  artifactKey: Guid(e408638526beb4c418438e7cf4e7dcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Calisma2.fbx using Guid(e408638526beb4c418438e7cf4e7dcbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105aa50e8041f9ef13248c90d917342c') in 0.382851 seconds 
+  Import took 0.486747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.547349 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Apartment building.fbx
+  artifactKey: Guid(5c54050af7e03e744878f964cb7e7d6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Apartment building.fbx using Guid(5c54050af7e03e744878f964cb7e7d6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f2364a8a4dcc7828710c4e7e5c4071') in 1.706170 seconds 
+  Import took 1.712398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 412.575870 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Apartment building 1.fbx
+  artifactKey: Guid(0da2315a01363574482e3a1e07e12144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Apartment building 1.fbx using Guid(0da2315a01363574482e3a1e07e12144) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95382f3b6acaac82fb8244cb9238e971') in 3.003615 seconds 
+  Import took 3.010868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.439200 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/ParkingLot.obj
+  artifactKey: Guid(2a55640a0d9461b4194241fde2313ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/ParkingLot.obj using Guid(2a55640a0d9461b4194241fde2313ca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ad1e823bc1f7803cf6ead08e864e3ae') in 0.045471 seconds 
+  Import took 0.050375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1075.726597 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/FuzzyRed.fbx
+  artifactKey: Guid(cadce851a83c442438fe5400dff49ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/FuzzyRed.fbx using Guid(cadce851a83c442438fe5400dff49ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54d6abaca9745b4332bd75a3e4539598') in 0.200696 seconds 
+  Import took 0.204215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 155.624614 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Humvee.fbx
+  artifactKey: Guid(0dc5c299b90cf984da7fd5c84237edd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Humvee.fbx using Guid(0dc5c299b90cf984da7fd5c84237edd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1d3cc2892cef059de85475d9d9a313') in 0.174599 seconds 
+  Import took 0.178316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 264.401013 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/11717_bicycle_v2_L1.obj
+  artifactKey: Guid(fe4b63109fda8fc44ab4bc694a5c68c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/11717_bicycle_v2_L1.obj using Guid(fe4b63109fda8fc44ab4bc694a5c68c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75087ad276d239067ad25cffefcc2c8d') in 0.197395 seconds 
+  Import took 0.200859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1113.531649 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Bicycle_Parking_Rack_01.FBX
+  artifactKey: Guid(7a22c1c148402604fb490d0d828f0c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Bicycle_Parking_Rack_01.FBX using Guid(7a22c1c148402604fb490d0d828f0c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06d6368c49449ba6cd8a68d753c991fe') in 0.122021 seconds 
+  Import took 0.125859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 952.567894 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Residential Buildings 001.fbx
+  artifactKey: Guid(f537dde80126cec4481fe1977d57cb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Residential Buildings 001.fbx using Guid(f537dde80126cec4481fe1977d57cb80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '010489887ced3fb6422ac553a50fd2f9') in 0.210946 seconds 
+  Import took 0.214367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2203.685011 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Residential Buildings 002.fbx
+  artifactKey: Guid(6162c00bb8f5dfa498c2c2a87c945930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Residential Buildings 002.fbx using Guid(6162c00bb8f5dfa498c2c2a87c945930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a3142da7e8b94d24fa8e3cf3fe63488') in 0.122675 seconds 
+  Import took 0.167465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.098217 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Residential Buildings 003.fbx
+  artifactKey: Guid(e9dd873465bfcd349b25ee82b36536b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Residential Buildings 003.fbx using Guid(e9dd873465bfcd349b25ee82b36536b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d2c6bb7eef6b6cb1adb86905a724f6d') in 0.063873 seconds 
+  Import took 0.072137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 236.623130 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Residential Buildings 004.fbx
+  artifactKey: Guid(43b450f0c8067f64da56288328475a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Residential Buildings 004.fbx using Guid(43b450f0c8067f64da56288328475a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e1f91adf9e0fcefdb168c887b1edb9') in 0.044147 seconds 
+  Import took 0.070489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3097.694224 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/building_04.fbx
+  artifactKey: Guid(66650c26b8d121743a00f02e00c00ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/building_04.fbx using Guid(66650c26b8d121743a00f02e00c00ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51122cc91f58a43696423fcee58e7d86') in 0.623925 seconds 
+  Import took 0.726650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 336.873450 seconds.
+  path: Assets/Modelos3D/Roads.fbx
+  artifactKey: Guid(8d0a8eac52a1b174a925459d835d113d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Roads.fbx using Guid(8d0a8eac52a1b174a925459d835d113d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c004e574e6133c9da5db31cab04b5d') in 0.582137 seconds 
+  Import took 0.588164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8103.100417 seconds.
+  path: Assets/Modelos3D/Residential Buildings 004.fbx
+  artifactKey: Guid(58aaf730a689b85478a5a1d4cad64a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Residential Buildings 004.fbx using Guid(58aaf730a689b85478a5a1d4cad64a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e538014b53bd04e2edaf7672e1753de1') in 0.125706 seconds 
+  Import took 0.163456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.005198 seconds.
+  path: Assets/Modelos3D/1.fbx
+  artifactKey: Guid(d04e6725441290b4b95961c4d065616d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/1.fbx using Guid(d04e6725441290b4b95961c4d065616d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '054dc3e4ab8f2d1c5629706986f29c03') in 0.365548 seconds 
+  Import took 0.374003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000448 seconds.
+  path: Assets/Modelos3D/Straße-Template 1.obj
+  artifactKey: Guid(ebf7cd4c2fc9c4c4da5633e9532515fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Straße-Template 1.obj using Guid(ebf7cd4c2fc9c4c4da5633e9532515fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df22178da03dae4d2b5b62590f447c53') in 0.574286 seconds 
+  Import took 0.579856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Modelos3D/BlackBoard.fbx
+  artifactKey: Guid(894bd81e85f20494990cc40a7170d024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/BlackBoard.fbx using Guid(894bd81e85f20494990cc40a7170d024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f1fbc93c40568c9a9073c39dfa35c4') in 0.281307 seconds 
+  Import took 0.294403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Modelos3D/Residential Buildings 004.fbx
+  artifactKey: Guid(58aaf730a689b85478a5a1d4cad64a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Residential Buildings 004.fbx using Guid(58aaf730a689b85478a5a1d4cad64a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db479861caf56d930b39ae026ce6bcd8') in 0.033569 seconds 
+  Import took 0.037423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002017 seconds.
+  path: Assets/Modelos3D/Straße-Template.obj
+  artifactKey: Guid(a20352f8f0385eb48bf2769f14ad2aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Straße-Template.obj using Guid(a20352f8f0385eb48bf2769f14ad2aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bac9ba6bb6c5a1a927547dd053fdab7') in 0.518162 seconds 
+  Import took 0.557966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Modelos3D/Roads.fbx
+  artifactKey: Guid(8d0a8eac52a1b174a925459d835d113d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Roads.fbx using Guid(8d0a8eac52a1b174a925459d835d113d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345f94bd1c34cb0edcb82252a66fdbc0') in 0.538331 seconds 
+  Import took 0.544295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Modelos3D/lowpolytree.fbx
+  artifactKey: Guid(81a9be5c97b6fbf43a94503b42a275a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/lowpolytree.fbx using Guid(81a9be5c97b6fbf43a94503b42a275a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f530c560895462e0497aae1ac1b0bd91') in 0.057495 seconds 
+  Import took 0.061697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Modelos3D/personajecuerpocompleo.fbx
+  artifactKey: Guid(766a60872eab45145a05bda73cca3593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/personajecuerpocompleo.fbx using Guid(766a60872eab45145a05bda73cca3593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d121855d70ee800c4ec3bcd809e1c1e') in 0.023728 seconds 
+  Import took 0.028134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/Modelos3D/among us.FBX
+  artifactKey: Guid(951c72dfd0b33d440ad961090e1b2919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/among us.FBX using Guid(951c72dfd0b33d440ad961090e1b2919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35334ef7cbae70835a2864823df3e3d7') in 0.023626 seconds 
+  Import took 0.045599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Modelos3D/MANOS_PERSONAJEPRINCIPAL.fbx
+  artifactKey: Guid(a6259a9604c50e040affa957b7a761cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/MANOS_PERSONAJEPRINCIPAL.fbx using Guid(a6259a9604c50e040affa957b7a761cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb829c66bc8c478e56105e8e0ace888d') in 0.054954 seconds 
+  Import took 0.058956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Modelos3D/Michigan_Building.obj
+  artifactKey: Guid(f5d6390c2adc02648876d6e8587e4663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Michigan_Building.obj using Guid(f5d6390c2adc02648876d6e8587e4663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f5bf42c281f308951af7148c360af8') in 0.181214 seconds 
+  Import took 0.186634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Modelos3D/Proektor_(0).fbx
+  artifactKey: Guid(93868758142ef6845ad68456289aafc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Proektor_(0).fbx using Guid(93868758142ef6845ad68456289aafc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '133476c0dea40e28ae5a31907fd9c0b4') in 0.103201 seconds 
+  Import took 0.124285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Modelos3D/free_car_001.fbx
+  artifactKey: Guid(633e103e6ecd574479d330573448bcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/free_car_001.fbx using Guid(633e103e6ecd574479d330573448bcd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c7a4e4564f17c851d36a99dc6de00e1') in 0.198894 seconds 
+  Import took 0.203668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.135465 seconds.
+  path: Assets/Modelos3D/Residential Buildings 005.fbx
+  artifactKey: Guid(9b31655367018ac4fac8a0491bbdc28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Residential Buildings 005.fbx using Guid(9b31655367018ac4fac8a0491bbdc28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2e34160c148de78f2ec5059201f7210') in 0.069305 seconds 
+  Import took 0.073610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.219572 seconds.
+  path: Assets/Modelos3D/Residential Buildings 006.fbx
+  artifactKey: Guid(deb6ef8037bb0f6489e3fbb43c03a439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Residential Buildings 006.fbx using Guid(deb6ef8037bb0f6489e3fbb43c03a439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c8e9c6badc4e46e81fc6e662ebf8fa') in 0.093545 seconds 
+  Import took 0.103466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 412.000767 seconds.
+  path: Assets/Modelos3D/Rammer 225 (Large).fbx.fbx
+  artifactKey: Guid(9353188193d7a1348bea46af3ace2158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Rammer 225 (Large).fbx.fbx using Guid(9353188193d7a1348bea46af3ace2158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f279adf32aabfa388ff9f3ec63c02b6f') in 0.643818 seconds 
+  Import took 0.650153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 204.761862 seconds.
+  path: Assets/Modelos3D/Tree1.obj
+  artifactKey: Guid(173390068473efc49995294b80f4d3c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Tree1.obj using Guid(173390068473efc49995294b80f4d3c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0abf33ad9ea07f3dac4f15584ac6cd5') in 0.184775 seconds 
+  Import took 0.212996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047649 seconds.
+  path: Assets/Modelos3D/Tree1.obj
+  artifactKey: Guid(173390068473efc49995294b80f4d3c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Tree1.obj using Guid(173390068473efc49995294b80f4d3c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0abf33ad9ea07f3dac4f15584ac6cd5') in 0.101075 seconds 
+  Import took 0.110551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 184.439826 seconds.
+  path: Assets/Modelos3D/StreetLamp.fbx
+  artifactKey: Guid(ec3303428992948499a26bdf34e7703d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/StreetLamp.fbx using Guid(ec3303428992948499a26bdf34e7703d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f419f0b589bcf1bfc4f714486298b57') in 0.238814 seconds 
+  Import took 0.243453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 194.624982 seconds.
+  path: Assets/Modelos3D/bench and lamp.fbx
+  artifactKey: Guid(c3e716dea4ba21545a012a0318a80324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/bench and lamp.fbx using Guid(c3e716dea4ba21545a012a0318a80324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d6e668c103e051c4651a61b558908c') in 0.500785 seconds 
+  Import took 0.506468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 135.091760 seconds.
+  path: Assets/Modelos3D/Residential Buildings 008.fbx
+  artifactKey: Guid(290a1dc72b324724eaf54e099a1e5b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Residential Buildings 008.fbx using Guid(290a1dc72b324724eaf54e099a1e5b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf58f3a16ebba4498daf73f030566d23') in 0.036853 seconds 
+  Import took 0.041563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 108.578290 seconds.
+  path: Assets/Modelos3D/Residential Buildings 009.fbx
+  artifactKey: Guid(8f3de7d422d156f458ee0d582cf63d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Residential Buildings 009.fbx using Guid(8f3de7d422d156f458ee0d582cf63d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de15ffa7ae934a61f76d1271461fbc44') in 0.208969 seconds 
+  Import took 0.229564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.711006 seconds.
+  path: Assets/Modelos3D/Residential Buildings 010.fbx
+  artifactKey: Guid(ab84c4bc8668e3d4ebf166ccc41e771a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/Residential Buildings 010.fbx using Guid(ab84c4bc8668e3d4ebf166ccc41e771a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38d0411f94a36991b822ece40428e82') in 0.042787 seconds 
+  Import took 0.076132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.669059 seconds.
+  path: Assets/Modelos3D/modell_obj.obj
+  artifactKey: Guid(b05a385bf973cf54ba7e1d660d60a16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modelos3D/modell_obj.obj using Guid(b05a385bf973cf54ba7e1d660d60a16e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55046b3a04d94bd853f3e5636040580f') in 0.047448 seconds 
+  Import took 0.051754 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 5.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.6 MB.
+System memory in use after: 69.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2536.
+Total: 119.626700 ms (FindLiveObjects: 0.702500 ms CreateObjectMapping: 0.121600 ms MarkObjects: 118.650900 ms  DeleteObjects: 0.149600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 743.749562 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/CoffeeMaker.obj
+  artifactKey: Guid(b1d9e58780e60c849a62a32f020df247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/CoffeeMaker.obj using Guid(b1d9e58780e60c849a62a32f020df247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32c407936d4e7676199a5a45d42fe34d') in 0.423926 seconds 
+  Import took 0.429536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 146.720981 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/16676_Casual_Sectional_Love_Seat_Left_Thyme_V1.obj
+  artifactKey: Guid(463c701159fc6f44aa1dc1f0ab437ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/16676_Casual_Sectional_Love_Seat_Left_Thyme_V1.obj using Guid(463c701159fc6f44aa1dc1f0ab437ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a2215a0634c0bcedd5f3f141c821963') in 0.365747 seconds 
+  Import took 0.469034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 348.061143 seconds.
+  path: Assets/devotid/Folding Table and Chair/Prefabs/Fridge.obj
+  artifactKey: Guid(d71aa70244a60114fb043bda36569e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/devotid/Folding Table and Chair/Prefabs/Fridge.obj using Guid(d71aa70244a60114fb043bda36569e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '913e12e548b19da262be4ce0f244b8cc') in 0.277428 seconds 
+  Import took 0.281626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1414.685581 seconds.
+  path: Assets/Codigo
+  artifactKey: Guid(cd0912f93a704f54c8a6625f46b3a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Codigo using Guid(cd0912f93a704f54c8a6625f46b3a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb19b0c062f8de208f0aee97f6f321e3') in 0.001370 seconds 
+  Import took 0.011906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000729 seconds.
+  path: Assets/Codigo
+  artifactKey: Guid(cd0912f93a704f54c8a6625f46b3a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Codigo using Guid(cd0912f93a704f54c8a6625f46b3a2c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb19b0c062f8de208f0aee97f6f321e3') in 0.001127 seconds 
+  Import took 0.004584 seconds .
+
